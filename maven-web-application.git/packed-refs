@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+5df56d3690e9e2188ecfd575c7597e21d8f16a07 refs/heads/dependabot/maven/org.springframework-spring-core-6.0.15
+1d7654d69c016c84ca293a76bdfeae6d624a08da refs/heads/development
+bb9d2a6812ab2fef33ae420595ad16f421779bc5 refs/heads/master
+1d7654d69c016c84ca293a76bdfeae6d624a08da refs/heads/stage
+1d7654d69c016c84ca293a76bdfeae6d624a08da refs/heads/testbranch
+cd7b857373ad699746abcef15a5c6d0185c9cff4 refs/tags/test

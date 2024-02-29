@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+cacc20febf3063e99cda689ea55dbd6e8ed8821b refs/heads/dependabot/maven/MavenEnterpriseApp-web/junit-junit-4.13.1
+f7862154ec845d842441410712ab205999bdb78c refs/heads/dependabot/maven/MavenEnterpriseApp-web/org.springframework-spring-core-5.2.22.RELEASE
+e6d37fcaf14e865e781bf71cdf6dc248d16d0b61 refs/heads/dependabot/maven/MavenEnterpriseApp-web/org.springframework-spring-web-6.0.0
+f9cafa5a58aa82e975bb8f0d34492481c8cf6556 refs/heads/dependabot/maven/MavenEnterpriseApp-web/org.springframework-spring-webmvc-5.2.20.RELEASE
+7d195ddc236c2c0f497da16ff18b149b2dcbe798 refs/heads/dependabot/maven/MavenEnterpriseApp-web/spring.version-5.2.7.RELEASE
+94c62ffa20b4c743b2f6fb8dabd61db29a632ad2 refs/heads/master
